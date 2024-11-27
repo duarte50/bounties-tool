@@ -1,0 +1,14 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment directory (venv or other names)
+venv/
+env/
+.venv/
+
+# PyInstaller distribution and build directories
+dist/
+build/
+*.spec

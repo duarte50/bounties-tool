@@ -1,0 +1,4 @@
+region=0,50,100,500
+inventory_space=24
+detective_level=500
+battle_of_fortunehold=True

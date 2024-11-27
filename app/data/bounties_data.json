@@ -1,0 +1,252 @@
+{
+    "CARROTS": {
+        "name": "Carrots",
+        "seller": "GREENGROCERS",
+        "buyer": "TOY_STALL"
+    },
+    "SOAP": {
+        "name": "Soap",
+        "seller": "SOAP_SHOP",
+        "buyer": "BUTCHERS_STALL"
+    },
+    "RIBS": {
+        "name": "Ribs",
+        "seller": "BUTCHERS_STALL",
+        "buyer": "SOUVENIR_STALL"
+    },
+    "MEAT_WRAP": {
+        "name": "Meat Wrap",
+        "seller": "HALLIGS_STREET_FOOD",
+        "buyer": "CHEESE_SHOP"
+    },
+    "BEEF_JOINT": {
+        "name": "Beef Joint",
+        "seller": "HENDERSONS_MEAT",
+        "buyer": "HALLIGS_STREET_FOOD"
+    },
+    "CLOCKWORK_SHEEP": {
+        "name": "Clockwork Sheep",
+        "seller": "PENNYS_CLOCKWORK",
+        "buyer": "CLOCK_STALL"
+    },
+    "PORCELAIN_DOLL": {
+        "name": "Porcelain Doll",
+        "seller": "TOY_STALL",
+        "buyer": "FORTUNEHOLD_FARM"
+    },
+    "PLATES": {
+        "name": "Plates",
+        "seller": "HERMARS_HOMEWARE",
+        "buyer": "JENNALERS_WINES"
+    },
+    "PIN_BADGE": {
+        "name": "Pin Badge",
+        "seller": "SOUVENIR_STALL",
+        "buyer": "VICTOR_T_CYCLOPS"
+    },
+    "PUMPKIN": {
+        "name": "Pumpkin",
+        "seller": "FORTUNEHOLD_FARM",
+        "buyer": "VASE_STALL"
+    },
+    "PIZZA": {
+        "name": "Pizza",
+        "seller": "CHEF",
+        "buyer": "FRANCESCAS_FRUIT_STALL"
+    },
+    "BANANAS": {
+        "name": "Bananas",
+        "seller": "FRANCESCAS_FRUIT_STALL",
+        "buyer": "PENNYS_CLOCKWORK"
+    },
+    "TIN_POCKET_WATCH": {
+        "name": "Tin Pocket Watch",
+        "seller": "SNILCHS_WATCHES",
+        "buyer": "BOGGS_ANTIQUES"
+    },
+    "HOMESPUN_CLOTH": {
+        "name": "Homespun Cloth",
+        "seller": "TEXTILES_STALL",
+        "buyer": "CLOCK_STALL"
+    },
+    "RAINBOW_CHEESE": {
+        "name": "Rainbow Cheese",
+        "seller": "CHEESE_SHOP",
+        "buyer": "HENDERSONS_MEAT"
+    },
+    "ARGANIAN_WINE": {
+        "name": "Arganian Wine",
+        "seller": "JENNALERS_WINES",
+        "buyer": "VASE_STALL"
+    },
+    "OAK_PATTERNED_VASE": {
+        "name": "Oak Patterned Vase",
+        "seller": "VASE_STALL",
+        "buyer": "HENDERSONS_MEAT"
+    },
+    "SCENTED_CANDLE": {
+        "name": "Scented Candle",
+        "seller": "CANDICES_CANDLES",
+        "buyer": "SOAP_SHOP"
+    },
+    "UNICORN_DUST": {
+        "name": "Unicorn Dust",
+        "seller": "VICTOR_T_CYCLOPS",
+        "buyer": "JANESSAS_DELICACIES"
+    },
+    "LANDSCAPE_PAINTING": {
+        "name": "Landscape Painting",
+        "seller": "BERTS_GALLERY",
+        "buyer": "TOMMY_SHOES_WINES"
+    },
+    "CARRIAGE_CLOCK": {
+        "name": "Carriage Clock",
+        "seller": "CLOCK_STALL",
+        "buyer": "PENNYS_CLOCKWORK"
+    },
+    "SPECTACLES": {
+        "name": "Spectacles",
+        "seller": "MONOCLE_MARKET",
+        "buyer": "CANDICES_CANDLES"
+    },
+    "SHARPSEED_WINE": {
+        "name": "Sharpseed Wine",
+        "seller": "TOMMY_SHOES_WINES",
+        "buyer": "JANESSAS_DELICACIES"
+    },
+    "RUG": {
+        "name": "Rug",
+        "seller": "BOGGS_ANTIQUES",
+        "buyer": "HERMARS_HOMEWARE"
+    },
+    "CAVIAR": {
+        "name": "Caviar",
+        "seller": "JANESSAS_DELICACIES",
+        "buyer": "BOGGS_ANTIQUES"
+    },
+    "BATH_SALTS": {
+        "name": "Bath Salts",
+        "seller": "SOAP_SHOP",
+        "buyer": "MONOCLE_MARKET"
+    },
+    "TOMATOES": {
+        "name": "Tomatoes",
+        "seller": "GREENGROCERS",
+        "buyer": "CHEF"
+    },
+    "STEAK": {
+        "name": "Steak",
+        "seller": "BUTCHERS_STALL",
+        "buyer": "HALLIGS_STREET_FOOD"
+    },
+    "BURGER": {
+        "name": "Burger",
+        "seller": "HALLIGS_STREET_FOOD",
+        "buyer": "JENNALERS_WINES"
+    },
+    "HAM_LEG": {
+        "name": "Ham Leg",
+        "seller": "HENDERSONS_MEAT",
+        "buyer": "TOY_STALL"
+    },
+    "CLOCKWORK_DRAGON": {
+        "name": "Clockwork Dragon",
+        "seller": "PENNYS_CLOCKWORK",
+        "buyer": "CHEESE_SHOP"
+    },
+    "SNOW_GLOBE": {
+        "name": "Snow Globe",
+        "seller": "TOY_STALL",
+        "buyer": "TOMMY_SHOES_WINES"
+    },
+    "CUPS": {
+        "name": "Cups",
+        "seller": "HERMARS_HOMEWARE",
+        "buyer": "SOUVENIR_STALL"
+    },
+    "POSTCARDS": {
+        "name": "Postcards",
+        "seller": "SOUVENIR_STALL",
+        "buyer": "TEXTILES_STALL"
+    },
+    "RHUBARB": {
+        "name": "Rhubarb",
+        "seller": "FORTUNEHOLD_FARM",
+        "buyer": "SOAP_SHOP"
+    },
+    "CURRY": {
+        "name": "Curry",
+        "seller": "CHEF",
+        "buyer": "SNILCHS_WATCHES"
+    },
+    "ORANGES": {
+        "name": "Oranges",
+        "seller": "FRANCESCAS_FRUIT_STALL",
+        "buyer": "TEXTILES_STALL"
+    },
+    "PRECISE_POCKET_WATCH": {
+        "name": "Precise Pocket Watch",
+        "seller": "SNILCHS_WATCHES",
+        "buyer": ""
+    },
+    "SILK": {
+        "name": "Silk",
+        "seller": "TEXTILES_STALL",
+        "buyer": ""
+    },
+    "OLD_RARG": {
+        "name": "Old Rarg",
+        "seller": "CHEESE_SHOP",
+        "buyer": ""
+    },
+    "FARGUST_WINE": {
+        "name": "Fargust Wine",
+        "seller": "JENNALERS_WINES",
+        "buyer": ""
+    },
+    "STRIPED_VASE": {
+        "name": "Striped Vase",
+        "seller": "VASE_STALL",
+        "buyer": ""
+    },
+    "TEA_LIGHTS": {
+        "name": "Tea Lights",
+        "seller": "CANDICES_CANDLES",
+        "buyer": ""
+    },
+    "UNICORN_HAIR": {
+        "name": "Unicorn Hair",
+        "seller": "VICTOR_T_CYCLOPS",
+        "buyer": ""
+    },
+    "PORTRAIT_PAINTING": {
+        "name": "Portrait Painting",
+        "seller": "BERTS_GALLERY",
+        "buyer": ""
+    },
+    "PENDULUM_CLOCK": {
+        "name": "Pendulum Clock",
+        "seller": "CLOCK_STALL",
+        "buyer": ""
+    },
+    "MONOCLE": {
+        "name": "Monocle",
+        "seller": "MONOCLE_MARKET",
+        "buyer": ""
+    },
+    "TOPHILL_WINE": {
+        "name": "Tophill Wine",
+        "seller": "TOMMY_SHOES_WINES",
+        "buyer": ""
+    },
+    "ANTIQUE_BOOK": {
+        "name": "Antique Book",
+        "seller": "BOGGS_ANTIQUES",
+        "buyer": ""
+    },
+    "TRUFFLES": {
+        "name": "Truffles",
+        "seller": "JANESSAS_DELICACIES",
+        "buyer": ""
+    }
+}
