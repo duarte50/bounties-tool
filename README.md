@@ -1,28 +1,27 @@
 # Bounties Tool
 
-Inspired by **RouteFinder** ([RouteFinder](https://brighter-shores-routefinder.com/)), the **Bounties Tool** is an in-game overlay for Brighter Shores that reads the game screen to find the quickest path to complete any set of bounties. This tool only requires a click a button to automatically find the most efficient route for your current bounties. While still a WIP, I’ve made it available in its current state to allow more users to test, provide feedback, and contribute to the project.
+Inspired by **RouteFinder** ([RouteFinder](https://brighter-shores-routefinder.com/)), the **Bounties Tool** is an in-game overlay for Brighter Shores that reads the game screen to find the quickest path to complete any set of bounties. This tool only requires a click a button to automatically find the most efficient route for your current bounties.
 
 ![bounties_tool](https://github.com/user-attachments/assets/d558e658-cfe4-4978-9531-cf9b3b9bd021)
 
 
 ## How it works
 
-1. **Fullscreen the game**: First, make sure the game is in fullscreen mode.
+1. **Fullscreen the game**: First, make sure the game is in fullscreen mode at the resolution of 1920x1080p.
 2. **Open the Left Menu**: Open the Left Menu and place the Bounties Menu in the top corner. Resize the Left Menu to the smallest possible size while ensuring the Bounties Menu is not cramped (see reference image below).
 3. **Grab the Bounties**: Retrieve the bounties from the Merchant Guild and click the **Run** button to find the optimal path.
 
 Alternatively, you can place the Bounties Menu in the Right Menu, but you will need to adjust the values in the Region Input.
 
-### Good vs Bad
+### The Bounties Menu cannot be crampled, follow the example on the left
 
 ![good_bounties](https://github.com/user-attachments/assets/53d77f4b-10b3-4eef-bae9-9827ba6c8131)
 ![bad_bounties](https://github.com/user-attachments/assets/af90e8ed-01cb-4cec-9892-b2203dbd1838)
 
 
+### What value should I use in Region Input?
 
-## What value should I use in Region Input?
-
-Region Input is the coordinates on screen where your bounties are, if you are using a single Full HD monitor this value will probably be ```0,50,100,500```, but you can test with different values.
+Region Input is the coordinates on screen where your bounties are, if you are using a single Full HD monitor this value will probably be ```0,50,100,500```, if you use two monitors then you may need to offset the x value, but you can test with different values and test what works better for your setup.
 
 ## Observations
 
@@ -32,13 +31,15 @@ Region Input is the coordinates on screen where your bounties are, if you are us
 - **"The tool cannot find the bounties."**
   Ensure the **Region Input** is set correctly. You can test this by clearing the Region Input (setting it to blank). If the tool still doesn't find your bounties, you can replace the images in `assets/bounties` with your own (following the image template below, making sure you don't include the borders). This allows you to adjust the size and positioning of the **Bounties Menu** as needed.
 
+
+
 - **"Is this bannable or against the rules?"**
   In-game overlays are not prohibited by the game’s rules. Overlays such as **Alt1 Toolkit** are widely used in RuneScape, so this tool should not result in a ban.
 
 - **"Why are the routes different from those in RouteFinder?"**
   The algorithm used in this tool is a modified version of the one found on the RouteFinder website. Unlike RouteFinder, which can finish a route anywhere, this tool prioritizes completing routes at the **Merchant's Guild**.
 
-### Good vs Bad
+### The bounties in `assets/bounties` should look like the example on the left
 
 ![good_carrots](https://github.com/user-attachments/assets/13154e25-ce43-4ee4-b0f2-98e2352094ef)
 ![bad_carrots](https://github.com/user-attachments/assets/18b9609e-faf8-4db6-b000-e696474c58aa)
